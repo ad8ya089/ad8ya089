@@ -141,38 +141,37 @@ Browser-native tooling and playable structure, not just static scenes.
 ---
 
 ## Featured Projects
-
 <table>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/ad8ya089/yanah-horror-studio">Yanah Horror Studio</a></h3>
       <p>Browser-native 3D level editor for designing horror game scenes. Drag-and-drop asset placement, real-time transform gizmos, fly-cam navigation, and JSON scene serialization. Ships with an AI script generator that outputs structured, playable scene graphs — objectives, trigger events, audio cues, and player actions — all constrained to the asset library.</p>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="" />
-      <img src="https://img.shields.io/badge/AI%20Scripting-7c3aed?style=flat-square&amp;logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/AI%20Scripting-7c3aed?style=flat-square&logoColor=white" alt="" />
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/ad8ya089/SpendSage">SpendSage</a></h3>
-      <p>Full-stack expense management platform with a React analytics dashboard, category filters, and responsive UI. PHP REST backend with optimized MySQL queries, multi-user support, and secure auth — password hashing and session management.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="" />
+      <h3><a href="https://github.com/ad8ya089/ConnectWave">ConnectWave</a></h3>
+      <p>Peer-to-peer video chat platform with room-based communication. WebRTC-powered direct connections with real-time signaling via Socket.io. Features in-call live chat, screen sharing, mute/video toggle, and a dynamic multi-participant video grid — all in a modern React UI with no accounts required.</p>
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="" />
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/ad8ya089/Spectrogram-Driven-ECG-Arrhythmia-Classifier">ECG Arrhythmia Classifier</a></h3>
       <p>End-to-end ML pipeline: ECG preprocessing, STFT-based spectrogram extraction, CNN training with TensorFlow/Keras. Achieved <strong>86.18% accuracy</strong> evaluated via confusion matrix and ROC-AUC analysis.</p>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="" />
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/govind-ik/smart_ai_to_cart">ShopWise</a></h3>
-      <p>AI-driven conversational shopping assistant. Django REST backend with Pixabay integration and LangChain + Gemini API for product discovery. Caching cut response latency by ~40%.</p>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logoColor=white" alt="" />
-      <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="" />
+      <h3><a href="https://github.com/ad8ya089/SpendSage">SpendSage</a></h3>
+      <p>Full-stack expense management platform with a React analytics dashboard, category filters, and responsive UI. PHP REST backend with optimized MySQL queries, multi-user support, and secure auth — password hashing and session management.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="" />
     </td>
   </tr>
 </table>

@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Aditya%20Prakash&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=ECE%20%40%20IIIT%20Allahabad%20%7C%20Full%20Stack%20%26%20ML&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Aditya%20Prakash&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=IIIT%20Allahabad%20%7C%20Full%20Stack%20%2B%20ML&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" alt="Header banner" />
 
-<img src="https://komarev.com/ghpvc/?username=ad8ya089&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=for-the-badge" alt="profile views" />
+**Full stack · real-time 3D · ML**
+
+<img src="https://komarev.com/ghpvc/?username=ad8ya089&amp;label=Profile%20Views&amp;color=7c3aed&amp;style=for-the-badge" alt="Profile views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/aditya-prakash-4161411bb"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aditya-prakash-4161411bb"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-<a href="https://codolio.com/profile/ad8ya089"><img src="https://img.shields.io/badge/Codolio-111827?style=for-the-badge&amp;logoColor=white" /></a>
+<a href="https://codolio.com/profile/ad8ya089"><img src="https://img.shields.io/badge/Codolio-111827?style=for-the-badge&amp;logoColor=white" alt="Codolio" /></a>
 &nbsp;
-<a href="mailto:adityaprakash240305@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="mailto:adityaprakash240305@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
 
 </div>
 
 ---
+
+<details>
+<summary><strong>Quick intro</strong> — click to expand</summary>
 
 ```
 > Initializing Aditya.exe ...
@@ -20,9 +25,13 @@
 > System status: Building things that ship
 ```
 
+</details>
+
+---
+
 ## Currently
 
-> **Software Engineering Intern @ [Yanah](https://www.linkedin.com/company/yanahworld/)** *(San Diego, CA — Remote)*
+> **Software Engineering Intern @ [Yanah](https://www.linkedin.com/company/yanahworld/)** *(San Diego, CA — Remote)*  
 > Building real-time 3D web experiences and tooling. Working across the full stack — physics-accurate first-person controls in Three.js, animated environment assets, a live **level editor** with transform gizmos and JSON scene serialization, ElevenLabs TTS narration, and a time-based story mechanic with line-by-line diary reveal.
 
 ---
@@ -30,9 +39,26 @@
 ## About Me
 
 - B.Tech ECE @ IIIT Allahabad — CGPA 8.64 (5th Sem)
-- Love taking systems from prototype to production — full stack, ML pipelines, real-time tooling
+- Love taking systems from prototype to production - full stack, ML pipelines, real-time tooling
 - 1000+ problems solved across platforms, 100+ contests
-- GrabHack (Grab India) **Rank 7 nationwide** — JEE Mains **AIR 7951** (99.32 percentile)
+
+---
+
+## Game dev & real-time 3D
+
+Browser-native tooling and playable structure, not just static scenes.
+
+| Focus | What I ship |
+|--------|-------------|
+| **Engineering** | Three.js scenes, fly-cam, transform gizmos, JSON scene serialization |
+| **Pipeline** | Asset placement, live editing, constraints so generated content stays shippable |
+| **Flagship** | **[Yanah Horror Studio](https://github.com/ad8ya089/yanah-horror-studio)** — 3D level editor + AI-assisted script graph for objectives, triggers, and audio |
+
+<p align="left">
+  <a href="https://github.com/ad8ya089/yanah-horror-studio"><img src="https://img.shields.io/badge/Repo-Yanah%20Horror%20Studio-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Yanah Horror Studio repo" /></a>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+</p>
 
 ---
 
@@ -77,14 +103,38 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ad8ya089&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;icon_color=7c3aed&amp;text_color=ffffff&amp;count_private=true&amp;rank_icon=github&amp;include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad8ya089&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;text_color=ffffff&amp;langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ad8ya089&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;icon_color=7c3aed&amp;text_color=ffffff&amp;count_private=true&amp;rank_icon=github&amp;include_all_commits=true" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad8ya089&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;text_color=ffffff&amp;langs_count=8" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ad8ya089&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=7c3aed&amp;ring=7c3aed&amp;fire=ff6b6b&amp;currStreakLabel=ffffff&amp;sideLabels=ffffff&amp;dates=888888" />
+<img src="https://streak-stats.demolab.com?user=ad8ya089&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=7c3aed&amp;ring=7c3aed&amp;fire=ff6b6b&amp;currStreakLabel=ffffff&amp;sideLabels=ffffff&amp;dates=888888" alt="GitHub streak" />
+
+</div>
+
+### Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ad8ya089&amp;theme=algolia&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## Contribution graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ad8ya089/ad8ya089/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ad8ya089/ad8ya089/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ad8ya089/ad8ya089/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>Snake SVGs are generated by a workflow in this repo’s <code>output</code> branch. Run the workflow manually once after adding it so the images appear.</sub>
 
 </div>
 
@@ -97,32 +147,32 @@
     <td width="50%">
       <h3><a href="https://github.com/ad8ya089/yanah-horror-studio">Yanah Horror Studio</a></h3>
       <p>Browser-native 3D level editor for designing horror game scenes. Drag-and-drop asset placement, real-time transform gizmos, fly-cam navigation, and JSON scene serialization. Ships with an AI script generator that outputs structured, playable scene graphs — objectives, trigger events, audio cues, and player actions — all constrained to the asset library.</p>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/AI%20Scripting-7c3aed?style=flat-square&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&amp;logo=threedotjs&amp;logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/AI%20Scripting-7c3aed?style=flat-square&amp;logoColor=white" alt="" />
     </td>
     <td width="50%">
       <h3><a href="https://github.com/ad8ya089/SpendSage">SpendSage</a></h3>
       <p>Full-stack expense management platform with a React analytics dashboard, category filters, and responsive UI. PHP REST backend with optimized MySQL queries, multi-user support, and secure auth — password hashing and session management.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="" />
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/ad8ya089/Spectrogram-Driven-ECG-Arrhythmia-Classifier">ECG Arrhythmia Classifier</a></h3>
       <p>End-to-end ML pipeline: ECG preprocessing, STFT-based spectrogram extraction, CNN training with TensorFlow/Keras. Achieved <strong>86.18% accuracy</strong> evaluated via confusion matrix and ROC-AUC analysis.</p>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white" alt="" />
     </td>
     <td width="50%">
       <h3><a href="https://github.com/govind-ik/smart_ai_to_cart">ShopWise</a></h3>
       <p>AI-driven conversational shopping assistant. Django REST backend with Pixabay integration and LangChain + Gemini API for product discovery. Caching cut response latency by ~40%.</p>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="" />
     </td>
   </tr>
 </table>
@@ -134,10 +184,6 @@
 ```
 Amazon ML Challenge 2025 ......... Top ~1000 nationwide
 Adobe India Hackathon ............ Semifinalist  ↳ Round A · Round B
-Flipkart Grid 7.0 ............... Semifinalist  (500K+ applicants)
-GrabHack (Grab India) ............ Rank 7 Nationwide
-JEE Mains 2023 .................. AIR 7951  (99.32 percentile)
-WBJEE 2023 ...................... Rank 142
 ```
 
 <div align="center">
@@ -167,7 +213,7 @@ WBJEE 2023 ...................... Rank 142
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=100&amp;section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=100&amp;section=footer" alt="Footer banner" />
 
 *"Ship it. Iterate. Let the commits speak."*
 
